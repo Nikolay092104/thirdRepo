@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    color: black;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.navbar {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 15%;
+    margin-left: 146px;
+}
+
+.nav-menu {
+    width: 50%;
+    text-transform: uppercase;
+}
+
+.list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.book-btn {
+    width: 35%;
+}
+
+.book-btn button {
+    width: 200px;
+    height: 60px;
+    background: #5B6460;
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: 177px;
+    border: 0;
+}
+
+.list li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.main-content {
+    width: 100%;
+    height: 80vh;
+    background: url(../img/both-ood-iceland-houses-have-a-hot-tub-at-the-front-overlooking-the-spectacular-scenery-this-makes-the-experience-even-more-surreal-says-ceo-andreas-tiik\ 1.png) center / cover;
+}
+
+.text-block {
+    text-align: center;
+    margin-left: 590px;
+    padding-top: 95px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-block h1 {
+    font-weight: 300;
+    font-size: 70px;
+    line-height: 72px;
+
+}
+
+.text-block p {
+    width: 333px;
+    height: 84px;
+    text-align: center;
+    margin-left: 350px;
+    padding-top: 20px;
+}
+
+.BookNow-btn button {
+    width: 200px;
+    height: 60px;
+    background: #5B6460;
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: 146px;
+    border: 0;
+    position: absolute;
+    bottom: 30px;
+}
+
+.text {
+    width: 406px;
+    height: 40px;
+
+    margin-right: 105px;
+
+}
+
+.logo-nomber2 {
+
+    margin-right: 1px;
+}
+
+.p-2 {
+    margin-top: 18px;
+    text-decoration: underline;
+}
+
+.text h1 {
+    margin-top: 87px;
+    margin-bottom: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.content-2 {
+    display: flex;
+    margin-left: 147px;
+    margin-top: 150px;
+}
+
+.content-3 {
+    margin-left: 48px;
+}
+
+.text-2 {
+    width: 465px;
+    height: 244px;
+    margin-left: 110px;
+}
+
+.IP-Adres {
+    display: flex;
+    margin-top: 150px;
+    width: 92%;
+    /* margin: auto; */
+    margin-left: 40px;
+}
+
+.text-2 h1 {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo-nomber3 {
+    margin-top: 150px;
+}
+
+.p-3 {
+    margin-top: 18px;
+    text-decoration: underline;
+}
+
+.Facilities {
+    text-align: center;
+    background-color: #5B6460;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nomber-1 {
+    font-size: 30px;
+}
+
+.choice {
+    height: 555px;
+    width: 829px;
+    left: 290.000244140625px;
+    top: 3015px;
+    border-radius: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.block {
+    flex: 25%;
+}
+
+.dot {
+    text-align: center;
+    margin-top: 150px;
+    display: flex;
+}
+
+.price-2 {
+    margin-left: 146px;
+}
+
+.price {
+    width: 386px;
+    height: 188px;
+    margin-left: 376px;
+    margin-top: 126px;
+
+}
+
+.end {
+    background-color: #5B6460;
+}
+.stay{
+    
+}
